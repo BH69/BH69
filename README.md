@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BH69
 - 👀 I’m interested in Web Development and playing games 
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning JavaScript, Java, Python, PHP HTML and CSS
 - 📫 How to reach me, you can email me, icoraduel@gmail.com
 
 I'm still a noob at Web Development, if you have any tips you can tell me please do lol 
